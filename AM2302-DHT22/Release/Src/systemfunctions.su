@@ -1,0 +1,2 @@
+../Src/systemfunctions.c:18:10:Get_SystemTimeMs	0	static
+../Src/systemfunctions.c:31:10:Compare_SystemTimeUs	0	static

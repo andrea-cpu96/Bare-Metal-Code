@@ -1,0 +1,2 @@
+../Src/int.c:12:6:HardFault_Handler	0	static
+../Src/int.c:25:6:SysTick_Handler	0	static
