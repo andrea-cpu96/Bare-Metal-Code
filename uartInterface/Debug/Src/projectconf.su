@@ -1,0 +1,4 @@
+../Src/projectconf.c:30:6:System_Config	8	static
+../Src/projectconf.c:42:6:SysTick_Init	24	static
+../Src/projectconf.c:64:6:port_Init	32	static
+../Src/projectconf.c:120:6:systemClock_Init	4	static

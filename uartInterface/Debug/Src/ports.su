@@ -1,0 +1,2 @@
+../Src/ports.c:15:9:Get_Port_Pin_State	24	static
+../Src/ports.c:31:6:Port_Pin_Toggle	24	static
