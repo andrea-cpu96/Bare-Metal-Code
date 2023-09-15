@@ -1,0 +1,6 @@
+../Src/int.c:17:6:HardFault_Handler	4	static
+../Src/int.c:30:6:SysTick_Handler	8	static
+../Src/int.c:38:6:USART1_IRQHandler	8	static
+../Src/int.c:45:6:USART2_IRQHandler	8	static
+../Src/int.c:52:6:WWDG_IRQHandler	4	static
+../Src/int.c:59:6:UsageFault_Handler	4	static

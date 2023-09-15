@@ -1,0 +1,10 @@
+../Src/uart.c:16:6:uart_Init	16	static
+../Src/uart.c:59:6:uart_MultiByte_Tx	32	static
+../Src/uart.c:67:6:uart_SingleByte_Tx	16	static
+../Src/uart.c:85:6:uart_MultiByte_Rx	32	static
+../Src/uart.c:93:6:uart_SingleByte_Rx	16	static
+../Src/uart.c:110:6:uart_Init_It	16	static
+../Src/uart.c:162:6:uart_Start_Tx_It	24	static
+../Src/uart.c:185:6:uart_Start_Rx_It	24	static
+../Src/uart.c:204:6:uart_End_Rx_It	16	static
+../Src/uart.c:218:6:Uart_IRQHandler	24	static
